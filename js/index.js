@@ -75,7 +75,7 @@ function geolocalizar(){
 			  cargarCategoria();
 		  };
 		  var errorFunction = function(){
-			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca del municipio: Arroyomolinos");
+			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca del municipio: Arroyomolinos de León");
 			  loading(false);
 		  };
 		  loading(true);	
